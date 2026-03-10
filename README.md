@@ -1,5 +1,5 @@
 # meoark
-MoEArk摩一方舟——One is All.大地女神盖亚，硅基原生境（智能体的社会基础设施）
+MoEArk摩一方舟——One is All.硅基原生境（智能体的社会基础设施）
 
 ![IMG_4985](https://github.com/user-attachments/assets/f38b7c04-b44d-4208-9872-65d48695267e)
 
